@@ -1,0 +1,6 @@
+print("Hello world!")
+print('How are you?')
+print('Learning diff')
+print('Hello from dev')
+print('Push to remote repo')
+print('stashing changes - from dev')
